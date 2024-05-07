@@ -13,12 +13,10 @@
  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hcrypto7&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-<img width = "47%" align="left" height="190" src="https://github-readme-stats.vercel.app/api?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true">
-<img width = "47%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=hcrypto7&hide_border=false"> 
-<img width = "47%" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+
+<img width = "50%" align="left" height="190" src="https://github-readme-stats.vercel.app/api?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true">
+<img width = "50%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=hcrypto7&hide_border=false"> 
+<img width = "100%" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
 
 
 
