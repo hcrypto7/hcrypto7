@@ -1,7 +1,9 @@
 # Hi there 👋
 
-# <div align="center"> &nbsp; Senior Frontend | Backend | Blockchain Developer &nbsp; </div>
+<div align="center"> &nbsp; Senior Frontend | Backend | Blockchain Developer &nbsp; </div>
 
+
+# 
 <table align="center">
   <tr>
     <td align="center" width="90">
