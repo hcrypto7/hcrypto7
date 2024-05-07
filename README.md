@@ -36,16 +36,16 @@
       <br>Laravel
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
-      <br>Rails
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-      <br>Django
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
+      <br>Ethereum
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/phoenix/phoenix-original-wordmark.svg" title="Phoenix" alt="Phoenix " width="45" height="45"/>
-      <br>Phoenix
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+      <br>AWS
     </td>
   </tr>
   <tr>
@@ -61,9 +61,9 @@
       <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
       <br>PHP
     </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
+      <br>Go
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
@@ -92,8 +92,8 @@
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-      <br>Flutter
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
+      <br>GraphQL
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
@@ -108,8 +108,8 @@
       <br>Tailwind
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
-      <br>Styled
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
+      <br>Solana
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
@@ -149,4 +149,4 @@
 🔭 I build Web Applicatons with Modern UI/UX, Web3 Dapp with real time blockchain event fetching, NFTs, CrossChain and Love to play with different DeFi protocols
 
 # 💻 Tech Stack: 
-![Rust](https://img.shields.io/badge/rust-%93323330.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E) ![Solana](https://img.shields.io/badge/solana-%93323330.svg?style=for-the-badge&logo=solana&logoColor=%FF070F1E)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Hardhat](https://img.shields.io/badge/-hardhat-yellow?style=for-the-badge) ![Etherjs](https://img.shields.io/badge/-Ethersjs-purple?style=for-the-badge) ![Ethereum](https://img.shields.io/badge/-Ethereum-purple?style=for-the-badge) ![Avalanche](https://img.shields.io/badge/-avalanche-orange?style=for-the-badge) ![TheGraph](https://img.shields.io/badge/-thegraph-purple?style=for-the-badge) ![NFT](https://img.shields.io/badge/-nft-pink?style=for-the-badge) ![DefI](https://img.shields.io/badge/-defi-yellow?style=for-the-badge) ![DAO](https://img.shields.io/badge/-dao-blue?style=for-the-badge) ![IPFS](https://img.shields.io/badge/-ipfs-green?style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Anchor](https://img.shields.io/badge/anchor-%23F24E1E.svg?style=for-the-badge&logo=anchor&logoColor=white)  ![Foundry](https://img.shields.io/badge/foundry-%23F24E1E.svg?style=for-the-badge&logo=foundry&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-%93323330.svg?style=for-the-badge&logo=rust&logoColor=%23F7DF1E) ![Solana](https://img.shields.io/badge/solana-%93323330.svg?style=for-the-badge&logo=solana&logoColor=%FF070F1E)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Cosmos SDK](https://img.shields.io/badge/-hardhat-yellow?style=for-the-badge) ![Etherjs](https://img.shields.io/badge/-Ethersjs-purple?style=for-the-badge) ![Ethereum](https://img.shields.io/badge/-Ethereum-purple?style=for-the-badge) ![Avalanche](https://img.shields.io/badge/-avalanche-orange?style=for-the-badge) ![TheGraph](https://img.shields.io/badge/-thegraph-purple?style=for-the-badge) ![NFT](https://img.shields.io/badge/-nft-pink?style=for-the-badge) ![DefI](https://img.shields.io/badge/-defi-yellow?style=for-the-badge) ![DAO](https://img.shields.io/badge/-dao-blue?style=for-the-badge) ![IPFS](https://img.shields.io/badge/-ipfs-green?style=for-the-badge) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Anchor](https://img.shields.io/badge/anchor-%23F24E1E.svg?style=for-the-badge&logo=anchor&logoColor=white)  ![Foundry](https://img.shields.io/badge/foundry-%23F24E1E.svg?style=for-the-badge&logo=foundry&logoColor=white) 
