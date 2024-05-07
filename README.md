@@ -1,7 +1,7 @@
 # Hi there 👋
 <br>
 
-# <div align="center"> I'm &nbsp; Senior Frontend | Backend | Blockchain Developer &nbsp; </div>
+# <div align="center"> &nbsp; Senior Frontend | Backend | Blockchain Developer &nbsp; </div>
 <br>
 
 # 💫 About Me:
