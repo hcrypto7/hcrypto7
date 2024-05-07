@@ -139,11 +139,10 @@
 # 📊 GitHub Activities:
 
 <img width = "100%" align="left" height="190" src="https://github-readme-stats.vercel.app/api?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true">
-<br/>
+
 <img width = "100%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=hcrypto7&hide_border=false"> 
-<br/>
+
 <img width = "100%" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
-<br/>
 
 # 💫 About Me:
 🔭 I build Web Applicatons with Modern UI/UX, Web3 Dapp with real time blockchain event fetching, NFTs, CrossChain and Love to play with different DeFi protocols
