@@ -17,26 +17,6 @@
 <br>
 <a href="https://jackmoes.vercel.app/"><img src="https://github.com/innotech0926/innotech0926/assets/153510531/95d5213e-245b-4a75-ae0f-c80c4f7549c9" width="1200px"/> -->
 
-
-
-#  🎯 My Projects
-<br>
-
-## ✒️ What is HeroSwap?
-### HeroSwap allows virtually instant and anonymous swapping of any supported currency with no signups. This enables developers to onboard new users and liquidity to their cross-chain apps. It also allows everyday users to swap cross-chain to experience different blockchain ecosystems. Partners who embed HeroSwap earn 50% of all swapping fees.
-### 👑 Decentralized Exchanges(DEXs), Crypto Exchanges
-### 🔱 Chains : Multichain, Solana, Ethereum, Sui
-
-<a href="https://heroswap.com/"><img src="https://github.com/innotech0926/innotech0926/assets/153510531/26faa6de-4a23-4bad-883d-a595a5e11d8b" width="1200px" />
-
-## ✒️ What is Solport?
-### In addition to user Auctioning, Rarity Filtering, and Discord/Telegram alerts for marketplace activity, Solport is an NFT marketplace built on the Solana blockchain that provides various features. Solport does not charge a listing fee or a refunding fee at present.
-### 👑 NFTMarketPlace 
-### 🔱 Chains : Solana
-
-<a href="https://solport.io/"><img src="https://github.com/innotech0926/innotech0926/assets/153510531/9c399017-ef50-431a-9589-950131289854" width="1200px" />
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hcrypto7&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hcrypto7&theme=radical&hide_border=false)<br/>
