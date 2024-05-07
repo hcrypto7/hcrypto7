@@ -1,6 +1,4 @@
-# Hi there 👋
-
-<div align="center"> &nbsp; Senior Frontend | Backend | Blockchain Developer &nbsp; </div>
+# Hi there 👋 <div align="center"> &nbsp; Senior Frontend | Backend | Blockchain Developer &nbsp; </div>
 
 
 # 
