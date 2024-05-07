@@ -18,9 +18,9 @@
 <a href="https://jackmoes.vercel.app/"><img src="https://github.com/innotech0926/innotech0926/assets/153510531/95d5213e-245b-4a75-ae0f-c80c4f7549c9" width="1200px"/> -->
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hcrypto7&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hcrypto7&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hcrypto7&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hcrypto7&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 
