@@ -38,15 +38,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Deepsoul71&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=deepsoul71&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepsoul71&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hcrypto7&theme=radical&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hcrypto7&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hcrypto7&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
 
 
 <!--
-**deepsoul71/deepsoul71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hcrypto7/hcrypto7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
