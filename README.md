@@ -1,7 +1,7 @@
 # Hi there 👋
 <br>
 
-# <div align="center"> &nbsp; Senior Frontend | Backend | Blockchain Developer &nbsp; </div>
+# <div align="center"> I'm &nbsp; Senior Frontend | Backend | Blockchain Developer &nbsp; </div>
 <br>
 
 # 💫 About Me:
@@ -12,16 +12,13 @@
 <!--  ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)  -->
  
 
-<!-- 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Health%20Worker.webp" alt="Man Health Worker" width="70" height="70" /> My Portfolio
-<br>
-<a href="https://jackmoes.vercel.app/"><img src="https://github.com/innotech0926/innotech0926/assets/153510531/95d5213e-245b-4a75-ae0f-c80c4f7549c9" width="1200px"/> -->
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hcrypto7&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+<img width = "47%" align="left" height="190" src="https://github-readme-stats.vercel.app/api?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true">
+<img width = "47%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=hcrypto7&hide_border=false"> 
+<img width = "47%" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
 
 
 
