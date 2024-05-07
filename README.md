@@ -24,6 +24,14 @@
       <br>Next.js
     </td>
     <td align="center" width="90">
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
+      <br>Ethereum
+    </td>
+    <td align="center" width="90">
+      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
+      <br>Solana
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
       <br>Angular
     </td>
@@ -34,14 +42,6 @@
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
       <br>Laravel
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
-      <br>Ethereum
     </td>
     <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
@@ -108,8 +108,8 @@
       <br>Tailwind
     </td>
     <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
-      <br>Solana
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
