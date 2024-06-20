@@ -136,7 +136,6 @@
 </table>
 <br/>
  
-
 # 📊 GitHub Activities:
 
 <img width = "100%" align="left" height="190" src="https://github-readme-stats.vercel.app/api?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true">
