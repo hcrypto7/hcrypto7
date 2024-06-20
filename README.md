@@ -139,12 +139,6 @@
 
 # 📊 GitHub Activities:
 
-<img width = "100%" align="left" height="190" src="https://github-readme-stats.vercel.app/api?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true">
-
-<img width = "100%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=hcrypto7&hide_border=false"> 
-
-<img width = "100%" height="200" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcrypto7&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
-
 <p align="center">
   <a href="https://github.com/hcrypto7?tab=repositories">
     <img src="https://github-readme-stats-one-bice.vercel.app/api?username=hcrypto7&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@hcrypto7's github-readme-stats"/>
