@@ -135,7 +135,8 @@
   </tr>
 </table>
 <br/>
- 
+
+
 # 📊 GitHub Activities:
 
 <p align="center">
