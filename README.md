@@ -131,7 +131,6 @@
       <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
       <br>Nuxt.js
     </td>
-
   </tr>
 </table>
 <br/>
